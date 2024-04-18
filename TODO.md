@@ -6,9 +6,9 @@ Una web app para la gesti[on de inventario para un laboratorio de electronica en
 
 ### IN PROGRESS
 - [ ] Crear el front end
-  - [ ] MAIN
+  - [x] MAIN
   - [ ] Registration page
-    - [ ] Front end
+    - [x] Front end
     - [ ] Back end
   - [ ] Dashboard
     - [ ] Conectar a la base de datos para autenticacion
@@ -24,5 +24,4 @@ Una web app para la gesti[on de inventario para un laboratorio de electronica en
   - [ ] Create order
     - [ ] Front end
     - [ ] Back End
-### Completed Column ✓
-- [x] Completed task title  
+### Completed Column ✓  
